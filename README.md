@@ -1,6 +1,11 @@
 <h1>OpenVPN EC2 - Terraform Platform</h1>
 Código Terraform para provisionamento de uma solução de VPN, sendo um EC2 com Balanceador de Carga do tipo Rede, bem como também com todas as portas necessárias e grupos de segurança.
 
+<h3>Autor</h3>
+<li>Weslley Matos de Carvalho</li>
+<li>Linkedin: <a href="https://linkedin.com/in/matcarv">https://linkedin.com/in/matcarv</a></li>
+<li>E-mail: <a href="mailto:contato@matcarv.com">contato@matcarv.com</a>
+
 <h3>Versões</h3>
 <li>Terraform versão 1.2.5</li>
 <li>AWS Provider versão 4.12.0</li>
