@@ -1,5 +1,5 @@
-<h1>OpenVPN EC2 - Terraform Platform</h1>
-Código Terraform para provisionamento de uma solução de VPN, sendo um EC2 com Balanceador de Carga do tipo Rede, bem como também com todas as portas necessárias e grupos de segurança.
+<h1>EC2 + Load Balancer - Terraform Platform</h1>
+Código Terraform para provisionamento de um EC2 com Balanceador de Carga do tipo Rede, bem como também com todas as portas necessárias e grupos de segurança.
 
 <h3>Autor</h3>
 <li>Weslley Matos de Carvalho</li>
